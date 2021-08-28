@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+// Felipe Luis Campanelli SC3006255
+import { Component } from '@angular/core'
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angularsetup';
+  title = 'angularsetup'
 }
